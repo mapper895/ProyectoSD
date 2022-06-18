@@ -1,0 +1,14 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mapper895/ProyectoSD.git",
+  "author": "mapper895 <mapper.895.mp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cli-progress": "^3.11.1",
+    "fs": "^0.0.1-security",
+    "webtorrent-hybrid": "^5.0.2"
+  },
+  "type": "module"
+}
